@@ -1,0 +1,17 @@
+{
+  "apps" : [{
+    "name"        : "pm2-tester",
+    "script"      : "index.js",
+    "watch"       : false,
+    "cwd"         : "C:/nodeapps/autostarter",
+	"autorestart" : true,
+	"log_date_format": "DD-MM-YYYY HH:mm Z",
+	"ignore_watch"      : ["[\\/\\\\]\\./", "node_modules"],
+    "env": {
+        "PORT": "8008"
+    },
+	"error_file" : "child-err.log",
+    "out_file"   : "child-out.log",
+    "pid_file"   : "child.pid"
+  }]
+}
