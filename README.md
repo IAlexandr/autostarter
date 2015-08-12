@@ -17,7 +17,7 @@
 
   * Создать простую задачу. В правой части окна на панели «Действия».
   
-![](https://github.com/IAlexandr/autostarter/blob/master/images/img1.png)
+  ![](https://github.com/IAlexandr/autostarter/blob/master/images/img1.png)
 
   * На этапе «Триггер» выбрать пункт При запуске компьютера
   
@@ -27,7 +27,7 @@
   
   * В Планировщике заданий в центральной части на панели Активные задачи найти вашу ново добавленную задачу и выполните над ним двойной клик левой кнопкой мыши. Вы перейдете на следующее окно
   
-![](https://github.com/IAlexandr/autostarter/blob/master/images/img2.png)
+  ![](https://github.com/IAlexandr/autostarter/blob/master/images/img2.png)
 
   * найдите свою задачу и выполните над ним двойной клик левой кнопкой мыши. Вы перейдете в свойства задачи.
 
@@ -37,6 +37,6 @@
 
     > «Выполнить с наивысшими правами»
 
-![](https://github.com/IAlexandr/autostarter/blob/master/images/img3.png)
+  ![](https://github.com/IAlexandr/autostarter/blob/master/images/img3.png)
 
   * Готово. После перезагрузки ПК приложения указанные в apps-config.json запустятся.
