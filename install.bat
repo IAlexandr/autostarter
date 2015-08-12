@@ -30,3 +30,7 @@ echo 5. run.bat created
 echo done.
 echo pause >> run.bat
 pause
+
+
+rem for program install task
+rem SCHTASKS /Create /S si /RU SYSTEM /RL HIGHEST /SC ONSTART /TN taskname /TR C:\node_apps\_pm2\run.bat
