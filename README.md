@@ -6,7 +6,7 @@
 
   * Прописать путь к файлу tail.exe в сист. перем. среды.
   
-  (Найти файл tail можно в папке git. Например: C:\Program Files (x86)\Git\bin)
+  (Найти файл tail можно в папке git. Например: C:\Program Files (x86)\Git\bin или `C:\Users\username\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\usr\bin`)
 
   * Создать в папке C:\pm2home\ файл apps-config.json с настройками по приложениям с которыми будет работать pm2. ( для примера в репозитории есть файл 'example-apps-config.json' ).
 
